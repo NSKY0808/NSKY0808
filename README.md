@@ -50,11 +50,6 @@ Kafka-based pipeline for transaction matching, anomaly detection, and audit logg
 
 ---
 
-### 👁️ Vision / Depth Projects (God’s Eye)
-Perception and depth estimation experiments using computer vision  
-*Python • OpenCV*
-
----
 
 ## 📚 Research & Innovation
 
