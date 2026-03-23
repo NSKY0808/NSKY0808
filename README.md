@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=800000" />
+  <img src="https://komarev.com/ghpvc/?username=NSKY0808&style=for-the-badge&color=800000" />
 </p>
 
 <p align="center">
@@ -94,14 +94,11 @@
 ## 🤝 Connect
 
 <p align="center">
-  <a href="PASTE_LINKEDIN_HERE">
+  <a href="www.linkedin.com/in/prithviraj-tandel-147023311">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:PASTE_EMAIL_HERE">
+  <a href="mailto:prithvirajtandel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="PASTE_PORTFOLIO_LINK_HERE">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
