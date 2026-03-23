@@ -1,126 +1,95 @@
-<!-- GitHub Profile README for Prithviraj Tandel -->
+<!-- Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=110&section=header&text=Prithviraj%20Tandel&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,100:800000&height=140&section=header&text=Prithviraj%20Tandel&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NSKY0808&style=for-the-badge&color=800000" />
+  <i>AI Systems • Distributed Systems • LLM Engineering</i>
 </p>
 
 <p align="center">
-  <b>AI Systems • Distributed Systems • LLM Engineering</b>  
-  <br/>
-  Building intelligent systems that combine reasoning, scalability, and real-world usability.
+  Building systems that combine reasoning, scalability, and real-world usability.
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-- Computer Science & Engineering (AI) student  
-- Focused on building **AI-driven systems and scalable backend architectures**  
-- Exploring **LLMs, transformer architectures, and explainability (XAI)**  
-- Strong emphasis on **understanding systems deeply and implementing them end-to-end**
+- Computer Science (AI) student  
+- Interested in **AI systems, transformers, and distributed architectures**  
+- Focused on understanding systems deeply and building them end-to-end  
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Current Focus
 
-> Systems I’ve built that combine AI, backend engineering, and real-world problem solving.
+→ LLM-based systems & agentic workflows  
+→ Distributed systems (Kafka, event pipelines, consistency)  
+→ Research papers (transformers, attention mechanisms)  
 
-- **The Indian Insite**  
-  AI platform to analyze bias in Indian news and generate fact-grounded summaries  
-  *(NLP, LLM pipelines, full-stack system)*  
+---
 
-- **AABLAS – LexiGPT**  
-  Agentic AI system for legal document reasoning, retrieval, and structured responses  
-  *(Python, LLM workflows, retrieval systems)*  
+## 🚀 Selected Work
 
-- **Real-Time Financial Reconciliation System**  
-  Kafka-based distributed pipeline for transaction matching, anomaly detection, and audit logging  
-  *(Kafka, Redis, TypeScript, event-driven architecture)*  
+### 🟣 The Indian Insite
+AI platform to analyze bias in Indian news and generate fact-grounded summaries  
+*NLP • LLM Pipelines • Full-stack*
 
-- **Overclocked EcoFinds**  
-  Sustainable second-hand marketplace with full-stack implementation  
-  *(React, Node.js, MongoDB)*  
+---
 
-- **God’s Eye / Depth Projects**  
-  Vision-based perception and depth estimation systems  
-  *(Python, OpenCV, Computer Vision)*  
+### ⚖️ LexiGPT (Agentic AI Law Advisor)
+Agent-based system for legal reasoning, retrieval, and structured responses  
+*Python • LLM Workflows • Retrieval Systems*
+
+---
+
+### ⚡ Real-Time Financial Reconciliation System
+Kafka-based pipeline for transaction matching, anomaly detection, and audit logging  
+*Kafka • Redis • Event-driven Systems*
+
+---
+
+### 👁️ Vision / Depth Projects (God’s Eye)
+Perception and depth estimation experiments using computer vision  
+*Python • OpenCV*
 
 ---
 
 ## 📚 Research & Innovation
 
-- 🧾 Contributed to **2 published patents**  
-- 📄 Research paper accepted (conference scheduled April 2026)  
-- 📖 Actively studying research papers such as *“Attention Is All You Need”*  
-- 🧠 Strong understanding of **transformer architectures and attention mechanisms**
+- 🧾 2 **published patents**  
+- 📄 Research paper accepted *(April 2026)*  
+- 📖 Studying *“Attention Is All You Need”*  
+- 🧠 Focus on **transformers & attention mechanisms**
 
 ---
 
-## 🧪 Current Focus
+## 🛠️ Stack
 
-- Building **end-to-end AI products** (model → backend → interface)  
-- Learning **distributed system design** (queues, caching, event pipelines)  
-- Developing **LLM-based applications and agentic workflows**  
-- Exploring **explainability and reasoning in AI systems**
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-|:--|:--|
-| **Languages** | C, C++, Python, JavaScript |
-| **AI / ML** | TensorFlow, OpenCV, YOLOv8 |
-| **Frontend** | React, HTML, CSS, Bootstrap |
-| **Backend** | FastAPI, Node.js, Express |
-| **Databases** | MongoDB, SQL |
-| **Systems & DevOps** | Docker, Kafka, Git, GitHub Actions |
-| **Embedded / IoT** | Arduino, Raspberry Pi |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,fastapi,mongodb,docker,git" />
+</p>
 
 ---
 
-## 🎯 What I'm Working Towards
+## 🎯 Direction
 
-- Contributing to **open source (GSoC 2026)**  
-- Building **production-ready AI systems**  
-- Deepening expertise in **intelligent + distributed systems**
+→ Open Source (GSoC 2026)  
+→ Production-level AI systems  
+→ Intelligent + distributed system design  
 
 ---
 
 ## 🤝 Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/prithviraj-tandel-147023311">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prithvirajtandel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="www.linkedin.com/in/prithviraj-tandel-147023311E">LinkedIn</a> •
+  <a href="mailto:prithvirajtandel@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🗺️ Roadmap
-
-```mermaid
-timeline
-  title Prithviraj — Project Timeline
-
-  2025 : Distributed Systems
-        : Kafka-based reconciliation + event-driven pipelines
-
-  2025 : Full-Stack Development
-        : Marketplace systems + web applications
-
-  2026 (Ongoing) : The Indian Insite
-        : AI platform for bias analysis + fact-based summaries
-
-  2026 (Ongoing) : LexiGPT
-        : Agentic AI for legal reasoning and retrieval
-
-  2026 (Planned) : XAI + LLM Research
-        : Explainability and reasoning in AI systems
+<p align="center">
+  <i>Understanding systems from first principles, then building them for real-world use.</i>
+</p>
