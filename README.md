@@ -1,11 +1,11 @@
-<!-- GitHub Profile README for Yugandhar Paulbudhe -->
+<!-- GitHub Profile README for Prithviraj Tandel -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=110&section=header&text=Yugandhar%20Paulbudhe&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=110&section=header&text=Prithviraj%20Tandel&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yugandhar577&style=for-the-badge&color=800000" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=800000" />
 </p>
 
 <p align="center">
@@ -94,10 +94,10 @@
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yugandhar-paulbudhe-801820311/">
+  <a href="PASTE_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yug.paulbudhe@gmail.com">
+  <a href="mailto:PASTE_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="PASTE_PORTFOLIO_LINK_HERE">
@@ -111,7 +111,7 @@
 
 ```mermaid
 timeline
-  title Yugandhar — Project Timeline
+  title Prithviraj — Project Timeline
 
   2025 : Distributed Systems
         : Kafka-based reconciliation + event-driven pipelines
