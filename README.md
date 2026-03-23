@@ -55,7 +55,6 @@ Kafka-based pipeline for transaction matching, anomaly detection, and audit logg
 
 - 🧾 2 **published patents**  
 - 📄 Research paper accepted *(April 2026)*  
-- 📖 Studying *“Attention Is All You Need”*  
 - 🧠 Focus on **transformers & attention mechanisms**
 
 ---
